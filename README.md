@@ -1,1 +1,0 @@
-# Logical_Representations_of_Sentence
