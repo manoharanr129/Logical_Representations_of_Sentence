@@ -63,5 +63,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - Inspiration from state-of-the-art NLP research.
 - Open-source libraries and frameworks that power this project.
-## Output
-output.jpg
+
+### Example Output Image
+![Optimized VRP Route](output.jpg)
