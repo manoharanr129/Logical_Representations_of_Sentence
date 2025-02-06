@@ -64,4 +64,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Inspiration from state-of-the-art NLP research.
 - Open-source libraries and frameworks that power this project.
 ## Output
-picture1.jpg
+output.jpg
